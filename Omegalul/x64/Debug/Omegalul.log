@@ -1,0 +1,13 @@
+﻿  chunk.cpp
+D:\Omegalul\Omegalul\chunk.cpp(68,17): warning C4018: '<=': signed/unsigned mismatch
+  compiler.cpp
+  main.cpp
+  memory.cpp
+D:\Omegalul\Omegalul\memory.cpp(30,16): error C2065: 'vm': undeclared identifier
+  object.cpp
+D:\Omegalul\Omegalul\object.cpp(15,17): error C2065: 'vm': undeclared identifier
+D:\Omegalul\Omegalul\object.cpp(16,2): error C2065: 'vm': undeclared identifier
+  value.cpp
+  vm.cpp
+D:\Omegalul\Omegalul\vm.cpp(25,14): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+  Generating Code...
